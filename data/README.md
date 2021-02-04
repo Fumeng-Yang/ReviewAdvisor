@@ -16,7 +16,7 @@ Specifically, for each paper, we include following metadata information that we 
 
 <br>
 
-The basic statistics of our dataest is shown in the table below. Note that NIPS only provide reviews for accepted papers to the public.
+The basic statistics of our dataset is shown in the table below. Note that NIPS only provide reviews for accepted papers to the public.
 
 
 |  | ICLR | NIPS | Both |
